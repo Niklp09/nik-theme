@@ -1,6 +1,6 @@
 # Maintainer: Niklp
 
-_pkgname=nik
+_pkgname=nik-theme
 pkgname=nik-theme
 pkgver=r.
 pkgrel=1
