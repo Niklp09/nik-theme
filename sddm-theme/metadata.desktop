@@ -1,0 +1,15 @@
+[SddmGreeterTheme]
+Name=Nik-SDDM
+Description=Nik's SDDM Theme
+Author=Nik
+Copyright=(c) 2022, Niklp
+License=CC-BY-SA
+Type=sddm-theme
+Version=0.2.0
+Website=https://github.com/Niklp09/nik-theme
+Screenshot=preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Theme-Id=Nik
+Theme-API=2.0
